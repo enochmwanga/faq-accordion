@@ -41,6 +41,10 @@ q{
     max-width: 22ch;
     grid-row: 1 / 2;
 }
+q:hover{
+    color: hsl(293, 78%, 44%);
+    cursor: pointer;
+}
 blockquote {
   display: none;
   min-width: 100%;
